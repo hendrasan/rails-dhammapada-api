@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  number: 1
+  title: Syair-Syair Kembar
+  english_title: The Twin Verses
+  pali_title: Yamaka Vagga
+
+two:
+  id: 2
+  number: 2
+  title: Kewaspadaan
+  english_title: Heedfulness
+  pali_title: Appamada Vagga

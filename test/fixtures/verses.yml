@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  chapter_id: 1
+  verse_number: 1
+  text: Pikiran adalah pelopor dari segala sesuatu, pikiran adalah pemimpin, pikiran adalah pembentuk. Bila seseorang berbicara atau berbuat dengan pikiran jahat, maka penderitaan akan mengikutinya, bagaikan roda pedati mengikuti langkah kaki lembu yang menariknya.
+  english_text: Mind is the forerunner of all evil states. Mind is chief; mind made are they. If one speaks or acts with an unwholesome mind, because of that, suffering follows one, even as the wheel follows the hoof of the draft-ox.
+  story_title: Kisah Cakkhupala Thera
+  english_story_title: Thera Cakkhupala
+  story: Suatu hari, Cakkhupala Thera berkunjung ke Vihara Jetavana untuk melakukan penghormatan kepada Sang Buddha. Malamnya, saat melakukan meditasi jalan kaki, sang thera tanpa sengaja menginjak banyak serangga sehingga mati.
+  english_story: One day, Cakkhupala Thera went to Jetavana Vihara to pay homage to the Buddha. That night, while walking meditation, the thera accidentally stepped on many insects, causing them to die.
+
+two:
+  chapter_id: 2
+  verse_number: 21
+  text: Kewaspadaan adalah jalan menuju kekekalan; kelengahan adalah jalan menuju kematian. Orang yang waspada tidak akan mati, Tetapi orang yang lengah seperti orang yang sudah mati.
+  english_text: Heedfulness is the path to the deathless, heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead.
+  story_title: Kisah Samavati
+  english_story_title: Samavati
+  story: Kerajaan Kosambi waktu itu diperintah oleh Raja Udena dengan permaisurinya Ratu Samavati. Ratu Samavati mempunyai 500 orang pengiring yang tinggal bersamanya di istana. Ia juga mempunyai pelayan kepercayaan, Khujjuttara, yang setiap harinya bertugas untuk membeli bunga.
+  english_story: The kingdom of Kosambi was ruled by King Udena with his queen, Samavati. Queen Samavati had 500 attendants who lived with her in the palace. She also had a trusted maid, Khujjuttara, who was tasked with buying flowers every day.
